@@ -1,0 +1,44 @@
+.back{
+    background-color: #2cb8b6;
+}
+
+.q-title-show{
+    color: black;
+}
+
+.display{
+    background-color: white;
+}
+
+.jumbotron{
+    font-family: cursive;
+    background-color: #433e79;
+    color: #f8f1f1;
+}
+
+.container1{
+    background-color: #c64756;
+}
+
+.display1{
+    background-color: white;
+}
+
+.title{
+    color: black;
+}
+
+.col{
+    padding-right: 30px;
+}
+
+.logo{
+    font-family: cursive;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.response{
+    background-color: #601919;
+    padding-left: 470px;
+}
